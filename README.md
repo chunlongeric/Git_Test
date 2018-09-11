@@ -28,3 +28,10 @@ END
 Add test for user 11092018
 
 
+Realize pull request by console
+
+end
+
+HOW to pull by console?
+
+
