@@ -32,7 +32,7 @@ Realize pull request by console
 
 end
 
-HOW to pull by console?
+ull by console?
 
 
 
@@ -40,3 +40,6 @@ HOW to pull by console?
 
 Branch chekck
 
+
+
+HELLO
