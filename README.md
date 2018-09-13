@@ -21,14 +21,14 @@ PULL request excercie
 END
 
 
-Change to account QQ.
+to account QQ.
 
 END
 
 Add test for user 11092018
 
 
-Realize pull request by console
+pull request by console
 
 end
 
